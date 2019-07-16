@@ -1,1 +1,4 @@
-Print (?hello world!?);
+Print ("hello world!");
+Print ("hello мир!");
+Print ("hello все");
+
